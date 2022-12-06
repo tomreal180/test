@@ -1,4 +1,4 @@
-package hausaufgabe9;
+package test;
 
 public class PositiveNumber {
 	//Attribut
